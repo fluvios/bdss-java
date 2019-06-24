@@ -1,0 +1,20 @@
+sudo -u postgres psql -c "ALTER USER postgres PASSWORD '123456';"
+sudo -u postgres psql -c "CREATE DATABASE barefoot;"
+
+ALTER USER postgres PASSWORD '123456';
+
+sudo docker run -it -p 5432:5432 --name="bdss" -v ${PWD}/map/:/mnt/map barefoot-map
+
+docker exec -it bdss bash
+
+https://download.geofabrik.de/north-america/us/new-york.html
+
+curl https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf --output map/osm/new-york-latest.osm.pbf
+
+https://download.geofabrik.de/europe/portugal-latest.osm.pbf
+
+curl https://download.geofabrik.de/europe/portugal-latest.osm.pbf --output map/osm/portugal-latest.osm.pbf
+
+sudo -u postgres -d barefoot -f map/osm/pgsnapshot_schema_0.6.sql
+
+https://www.bmw-carit.com/blog/barefoot-release-an-open-source-java-library-for-map-matching-with-openstreetmap/
