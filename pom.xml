@@ -27,5 +27,17 @@
 	    <artifactId>azure-storage</artifactId>
 	    <version>8.3.0</version>
 	</dependency>
+	<dependency>
+	    <groupId>org.jxmapviewer</groupId>
+	    <artifactId>jxmapviewer2</artifactId>
+	    <version>2.4</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.processing/processing-complete -->
+	<dependency>
+	    <groupId>org.processing</groupId>
+	    <artifactId>processing-complete</artifactId>
+	    <version>3.3.7</version>
+	    <type>pom</type>
+	</dependency>
   </dependencies>
 </project>
