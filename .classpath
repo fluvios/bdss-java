@@ -18,36 +18,36 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5-matcher-jar-with-dependencies.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5-tracker-jar-with-dependencies.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/apache-commons.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/commons-math3-3.0.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/core.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/G4P.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-amd64.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-armv6hf.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-i586.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-macosx-universal.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-windows-i586.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/google-collections-1.0.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-amd64.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-armv6hf.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-i586.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-macosx-universal.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-windows-i586.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/json4processing.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/log4j-1.2.15.jar"/>
-	<classpathentry kind="lib" path="D:/Kerja/bdss-java/lib/unfolding.0.9.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5-matcher-jar-with-dependencies.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/barefoot-0.1.5-tracker-jar-with-dependencies.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/apache-commons.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/commons-math3-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/G4P.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/google-collections-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/json4processing.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Kerja/bdss-java/lib/unfolding.0.9.6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

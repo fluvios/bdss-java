@@ -1,10 +1,5 @@
 package bdss.trajdb;
 
-//Include the following imports to use table APIs
-import com.microsoft.azure.storage.*;
-import com.microsoft.azure.storage.table.*;
-import com.microsoft.azure.storage.table.TableQuery.*;
-
 public class Database {
 	private static final String storageConnectionString =
 		    "DefaultEndpointsProtocol=https;" + 

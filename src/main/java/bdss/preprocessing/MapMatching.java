@@ -1,20 +1,5 @@
 package bdss.preprocessing;
 
-import com.bmwcarit.barefoot.matcher.Matcher;
-import com.bmwcarit.barefoot.matcher.MatcherCandidate;
-import com.bmwcarit.barefoot.matcher.MatcherSample;
-import com.bmwcarit.barefoot.matcher.MatcherTransition;
-import com.bmwcarit.barefoot.road.PostGISReader;
-import com.bmwcarit.barefoot.roadmap.Road;
-import com.bmwcarit.barefoot.roadmap.RoadMap;
-import com.bmwcarit.barefoot.roadmap.RoadPoint;
-import com.bmwcarit.barefoot.roadmap.Route;
-import com.bmwcarit.barefoot.roadmap.TimePriority;
-import com.bmwcarit.barefoot.spatial.Geography;
-import com.bmwcarit.barefoot.topology.Dijkstra;
-
-import com.esri.core.geometry.Point;
-
 public class MapMatching {
 //	// Load and construct road map
 //	RoadMap map = RoadMap.Load(new PostGISReader(...));
