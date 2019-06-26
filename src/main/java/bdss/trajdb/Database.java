@@ -14,7 +14,7 @@ public class Database {
 	
 	public void connect() {
 		// Retrieve storage account from connection-string.
-		String storageConnectionString =
-		    RoleEnvironment.getConfigurationSettings().get("StorageConnectionString");
+//		String storageConnectionString =
+//		    RoleEnvironment.getConfigurationSettings().get("StorageConnectionString");
 	}
 }
